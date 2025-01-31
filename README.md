@@ -13,3 +13,9 @@
 
 # Projects 
 :deciduous_tree:[ChatAmbiental](https://github.com/Leticia-Infnet/ChatAmbiental)
+
+:soccer:[Futebol Com LLM](https://github.com/Leticia-Infnet/Futebol_Com_LLM)
+
+:soccer:[Futebol Com LLM - Versão FastAPI](https://github.com/Leticia-Infnet/Futebol_Com_LLM_API)
+
+

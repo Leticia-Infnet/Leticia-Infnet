@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Meu nome é Letícia Fernandes de Abreu, sou bacharel em Ciências Biológicas e, atualmente, estudante de Ciência de Dados<br><br>👩‍💻 Trabalho como Estagiária de Dados na Extreme Digital Solutions<br><br>🌱 Atualmente estou estudando as tecnologias: MongoDB, Apache Spark, Apache Airflow e Hadoop<br>
+👋 Meu nome é Letícia Fernandes de Abreu, sou bacharel em Ciências Biológicas e, atualmente, estudante de Ciência de Dados<br><br>👩‍💻 Trabalho como Estagiária de Dados na Extreme Digital Solutions<br><br>
 
 
 ## 🌐 Socials:
